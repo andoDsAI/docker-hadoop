@@ -7,3 +7,6 @@ src/__pycache__/*
 workspace*
 mnt/*
 node_modules/*
+mysql/
+postgresql/
+insert_data_to_db.ipynb
